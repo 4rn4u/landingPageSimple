@@ -111,7 +111,7 @@ h1 {
     flex: 1;
     justify-content: center;
     align-items: center;
-    height: 300px;
+    height: 275px;
     background-color: white;
 }
 
@@ -130,7 +130,7 @@ h1 {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 300px;
+    height: 275px;
     background-color: #E5E7EB;
 }
 
@@ -143,7 +143,35 @@ h3 {
 
 .container4{
     background-color: white;
-    height: 200px;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#ubic {
+    width: 250px;
+    height: 250px;
+    margin-right: 200px;
+    border-radius: 10px;
+    border: 2px solid #1F2937;
+}
+
+.content4 {
+    margin: 60px;
+    padding: 20px;
+}
+
+#visit {
+    color: black;
+    font-style: bold;
+    font-size: 30px
+}
+
+#shop {
+    color: black;
+    font-style: italic;
+    font-size: 20px
 }
 
 .footer {
